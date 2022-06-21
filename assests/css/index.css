@@ -1,0 +1,50 @@
+.layui-footer{
+    text-align: center;
+    font-size: 12px;
+}
+
+.iconfont{
+    margin-right: 6px;
+}
+
+.layui-icon{
+    margin: 0 8px 0 20px;
+}
+
+/* 设置iframe的宽高为父盒子的百分百 */
+iframe{
+    width: 100%;
+    height: 100%;
+}
+.layui-body{
+    overflow: hidden;
+}
+
+/* userinfo */
+.userinfo{
+    line-height: 60px;
+    text-align: center;
+    user-select: none;
+    font-size: 12px;
+}
+.layui-side-scroll .userinfo{
+    border-bottom: 1px solid #282b33;
+}
+
+/* 文字头像 */
+.text-avatar{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    background-color:#009688;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    position: relative;
+    top: 4px;
+}
+.layui-nav-img{
+    height: 40px;
+    width: 40px;
+}
